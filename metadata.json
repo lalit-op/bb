@@ -1,0 +1,6 @@
+{
+  "name": "Feather TV",
+  "description": "Live TV and Radio streaming app with categories, station guides, custom playback controls, and favorites",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
